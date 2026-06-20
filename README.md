@@ -29,7 +29,7 @@ Lightweight, debloated Debian KDE Plasma setup scripts optimized specifically fo
 Boot into your minimal Debian environment and run:
 ```bash
 sudo apt update && sudo apt install git -y
-git clone https://github.com/GLAJK/Debian-KDE-Minimal-install.git
+git clone https://github.com/GLAJK/Debian-KDE-Minimal-Install.git
 cd Debian-KDE-Minimal-install
 ```
 
